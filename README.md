@@ -17,6 +17,10 @@ speed.
 reads correctly from the robot's side and is upside down to someone facing
 the front of the robot.*
 
+![Actual result](docs/result.png)
+
+*The actual output on the whiteboard after a writing run.*
+
 ## Contents
 
 | File | Purpose |
