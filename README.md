@@ -5,9 +5,11 @@ whiteboard with a dry-erase marker held at J6. The run starts and ends at a
 defined Home position. All motion is under program control, at a low, fixed
 speed.
 
-**Demonstration videos:** *(add YouTube links)*
-- Dry run in the air: `https://youtu.be/...`
-- Writing run: `https://youtu.be/...`
+**Demonstration videos:**
+- Writing run (on the board): https://youtu.be/9lMpUU2K0Y0
+- Dry run in the air: https://youtu.be/b7LZW2sKkTQ
+- Writing run (on the board): https://youtu.be/A9swemSFlqM
+- Writing run (on the board): https://youtu.be/q0noPdd0gKQ
 
 ![Planned path](docs/preview.png)
 
